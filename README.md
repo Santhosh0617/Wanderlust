@@ -11,3 +11,9 @@ A Personalized Travel Planning And Tracking App
 - DHIVAKAR K ( NM ID - EA47587D273D289A0BC473D4906267EB )
 
 Video Demonstration Link - https://drive.google.com/file/d/11swHR0SAT0mT2gVBcyoGjSFYnKGbqx1i/view
+
+## Screenshots
+![ScreenShot](https://raw.githubusercontent.com/Santhosh0617/Wanderlust/main/Screenshots/Screenshot_20230412_142603.jpg sanitize=true "Login")
+![ScreenShot](https://github.com/Santhosh0617/Wanderlust/blob/main/Screenshots/Screenshot_20230412_142609.jpg "Register")
+![ScreenShot](https://github.com/Santhosh0617/Wanderlust/blob/main/Screenshots/Screenshot_20230412_142720.jpg "Home")
+![ScreenShot](https://github.com/Santhosh0617/Wanderlust/blob/main/Screenshots/Screenshot_20230412_142724.jpg "Detail")
